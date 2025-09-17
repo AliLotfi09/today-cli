@@ -102,3 +102,7 @@ After PATH setup, you can run from **any terminal and enywhere**:
 - Python 3.7+
 - rich >= 13.0.0
 - jdatetime >= 4.0.0
+
+<div align="center">
+Give a ⭐ if you found this helpful!
+</div>
