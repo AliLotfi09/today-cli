@@ -26,7 +26,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/today-cli.git
+git clone https://github.com/Alilotfi09/today-cli.git
 cd today-cli
 ```
 
